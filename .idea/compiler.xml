@@ -9,6 +9,7 @@
         <module name="jvm" />
         <module name="juc" />
         <module name="jol" />
+        <module name="docker" />
       </profile>
     </annotationProcessing>
   </component>

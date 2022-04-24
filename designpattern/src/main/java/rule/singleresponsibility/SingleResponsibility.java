@@ -1,7 +1,9 @@
+package rule.singleresponsibility;
+
 /**
  * 单一职责原则
  */
-public class SingleResponsibilityDemo {
+public class SingleResponsibility {
 
     public static void main(String[] args) {
         Vehicle vehicle = new Vehicle();
